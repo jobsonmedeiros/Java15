@@ -3,7 +3,7 @@
 
 >#Projeto Campo Minado
 
-Sabe aquele joguinho do Windows? Então... não está como eu queria, mas funciona :D. Próximo passo será a versão web, depois a desktop.
+Sabe aquele joguinho do Windows? Então... não está como eu queria, mas funciona :D. Próximo passo será a versão desktop, depois a web.
 
 Aqui você pode ter uma ideia do jogo, caso não conheça: https://minesweeperonline.com/
 
@@ -13,7 +13,7 @@ Para testar, você deve informar a linha e a coluna em cada rodada, separando o 
 
 >#REGRAS DO JOGO
 
-A cada rodada você deve descobrir onde estão as bombas e sobreviver até o fim. 
+A cada rodada você deve descobrir onde estão as bombas e sobreviver até o fim.
 
  - Cada número indica quantas minas têm ao seu lado, nas casas vizinhas;
  - Casa vizinha entenda como a que está mais próxima de você, em cima, embaixo, esquerda, direita e diagonais;
